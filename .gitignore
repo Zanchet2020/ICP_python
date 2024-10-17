@@ -1,0 +1,5 @@
+venv/
+*.obj
+*.jpg
+*.png
+Open3D/
