@@ -1,1 +1,0 @@
-# dtLabs_challenge
